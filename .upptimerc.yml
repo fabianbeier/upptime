@@ -13,6 +13,8 @@ sites:
     url: https://www.galerie-clement.de
   - name: Dr Richter
     url: https://www.institut-id.com
+  - name: test
+    url: https://example.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
