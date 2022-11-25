@@ -11,6 +11,10 @@ sites:
     url: https://www.uwespannagel.com
   - name: Galerie Clement
     url: https://www.galerie-clement.de
+  - name: Galerie Clement CMS
+    url: https://cms.galerie-clement.de/admin/login
+  - name: Leap CMS
+    url: https://cms.leapsociety.org/admin/login
   - name: Dr Richter
     url: https://www.institut-id.com
 
