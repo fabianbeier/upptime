@@ -112,9 +112,9 @@
     "url": "https://www.institut-id.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.institut-id.com.ico",
     "slug": "dr-richter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +123,8 @@
     "timeWeek": 2689,
     "timeMonth": 2689,
     "timeYear": 2689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 0
+    }
   }
 ]
