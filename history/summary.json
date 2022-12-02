@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 804,
     "timeDay": 842,
-    "timeWeek": 804,
+    "timeWeek": 829,
     "timeMonth": 804,
     "timeYear": 804,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 288,
     "timeDay": 311,
-    "timeWeek": 288,
+    "timeWeek": 297,
     "timeMonth": 288,
     "timeYear": 288,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://www.uwespannagel.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.uwespannagel.com.ico",
     "slug": "uwe-spannagel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1158,
-    "timeDay": 1265,
-    "timeWeek": 1158,
-    "timeMonth": 1158,
-    "timeYear": 1158,
-    "dailyMinutesDown": {}
+    "time": 1104,
+    "timeDay": 836,
+    "timeWeek": 1119,
+    "timeMonth": 1104,
+    "timeYear": 1104,
+    "dailyMinutesDown": {
+      "2022-12-02": 0
+    }
   },
   {
     "name": "Galerie Clement",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 1171,
     "timeDay": 1413,
-    "timeWeek": 1171,
+    "timeWeek": 1218,
     "timeMonth": 1171,
     "timeYear": 1171,
     "dailyMinutesDown": {}
@@ -120,7 +122,7 @@
     "uptimeYear": "100.00%",
     "time": 2754,
     "timeDay": 3490,
-    "timeWeek": 2754,
+    "timeWeek": 2858,
     "timeMonth": 2754,
     "timeYear": 2754,
     "dailyMinutesDown": {}
